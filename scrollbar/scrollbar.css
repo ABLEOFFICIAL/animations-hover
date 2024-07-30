@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #23E3c9;
+}
+
+.slider {
+    border: 2px solid red;
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+}
